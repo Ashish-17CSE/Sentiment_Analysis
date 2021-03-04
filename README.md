@@ -29,3 +29,5 @@ Step 4. Classification | >  Movie, Great
 * (ML) Apply Supervised Algorithm for classification 
 -     Train your model with a bag of words or Lexicons, and test it on the analyzing statement 
 -     More the accuracy score better will be the classification.
+
+* Step 5. Calculation :- Since thr polarity is greater than "0" so the give statement is Positive.
