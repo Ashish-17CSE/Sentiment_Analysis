@@ -19,3 +19,7 @@ Step 3. Removing Stop Words | >  . The  . was
 Step 4. Classification | > 
 Positive : +1
 Nagative : -1
+Neutral : 0
+
+* Classify them as positive negative and neutral.
+
