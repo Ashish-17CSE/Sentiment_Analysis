@@ -4,8 +4,8 @@ Basic about Sentiment Analysis with Example.
 
 ## How does it work?
 
-Step 1. Tokenization
-### Example :- The Movie was Great! | > 
+Step 1. Tokenization *
+Example :- The Movie was Great! | > 
 * The
 * movie
 * was
@@ -20,9 +20,11 @@ Step 3. Removing Stop Words | >
 * was
 
 Step 4. Classification | > 
-*Positive : +1
-*Nagative : -1
-*Neutral : 0
+* Positive : +1
+* Nagative : -1
+* Neutral : 0
+
+* Movie, Great
 
 * Classify them as positive negative and neutral.
 
