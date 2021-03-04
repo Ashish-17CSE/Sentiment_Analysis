@@ -6,7 +6,7 @@ Basic about Sentiment Analysis with Example.
 
 Step 1. Tokenization
 - Example :- The Movie was Great! | > 
-     *The
+- *The
      *movie
      *was
      *great
