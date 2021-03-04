@@ -5,7 +5,7 @@ Basic about Sentiment Analysis with Example.
 ## How does it work?
 
 Step 1. Tokenization
-Example :- The Movie was Great!
+- Example :- The Movie was Great!
       |
       >
      . The 
@@ -15,10 +15,10 @@ Example :- The Movie was Great!
      . !
      
      
-Step 2. Data Cleaning | > \n . ! 
+Step 2. Data Cleaning | >  . ! 
 
-Step 3. Removing Stop Words | > \n . The  . was
+Step 3. Removing Stop Words | >  . The  . was
 
-Step 4. Classification | > \n
+Step 4. Classification | > 
 Positive : +1
 Nagative : -1
