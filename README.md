@@ -1,10 +1,10 @@
-# Sentiment_Analysis
+## Sentiment_Analysis
 Basic about Sentiment Analysis with Example.
 
 
-How does it work?
+# How does it work?
 
-Step 1. Tokenization
+# Step 1. Tokenization
 Example :- The Movie was Great!
       |
       >
@@ -15,4 +15,4 @@ Example :- The Movie was Great!
      . !
      
      
-Step 2. Data Cleaning | > . ! 
+# Step 2. Data Cleaning | > . ! 
