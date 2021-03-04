@@ -6,11 +6,11 @@ Basic about Sentiment Analysis with Example.
 
 Step 1. Tokenization
 - **Example :- ** The Movie was Great!
-     . The 
-     . movie
-     . was
-     . Great
-     . !
+-    . The 
+-    . movie
+-    . was
+-    . Great
+-    . !
      
      
 Step 2. Data Cleaning | >  . ! 
