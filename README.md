@@ -19,13 +19,13 @@ Step 3. Removing Stop Words | >
 * The  
 * was
 
-Step 4. Classification | > 
+Step 4. Classification | >  Movie, Great
 * Positive : +1
 * Nagative : -1
 * Neutral : 0
 
-* Movie, Great
-
 * Classify them as positive negative and neutral.
 
-** (ML) 
+(ML) Apply Supervised Algorithm for classification 
+Train your model with a bag of words or Lexicons, and test it on the analyzing statement 
+More the accuracy score better will be the classification.
